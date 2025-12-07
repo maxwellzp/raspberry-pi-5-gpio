@@ -8,5 +8,7 @@ while True:
     print(f"Distance: {distance:.1f} cm")
     sleep(0.1)
 
-
+# R1 = 1 kΩ
+# R2 = 2 kΩ
+# 5V / (1k + 2k) = 5V / 3000 Ω = 0.001666667×1000 = 1.66 mA
 
